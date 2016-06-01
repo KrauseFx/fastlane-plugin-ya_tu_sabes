@@ -18,7 +18,7 @@ Ya tu sabes.
 
 ## Example
 
-Check out the [example `Fastfile`][fastlane/Fastfile] to see how to use this plugin. You can also run it directly from a checkout of this repository using `bundle exec fastlane test`.
+Check out the [example `Fastfile`](fastlane/Fastfile) to see how to use this plugin. You can also run it directly from a checkout of this repository using `bundle exec fastlane test`.
 
 ## Issues and Feedback
 

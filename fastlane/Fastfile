@@ -1,3 +1,3 @@
 lane :test do
-  ya_tu_sabes()
+  ya_tu_sabes
 end
